@@ -1,0 +1,74 @@
+#######################################
+# Syntax Coloring Map For Danich_SSD130x_Fast
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Danich_SSD130x_Fast	KEYWORD1
+DanichOLED	KEYWORD1
+DanichOLED_Buf	KEYWORD1
+OledChip	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+clrScr	KEYWORD2
+fillScr	KEYWORD2
+invScr	KEYWORD2
+flipH	KEYWORD2
+flipV	KEYWORD2
+displayOff	KEYWORD2
+displayOn	KEYWORD2
+setContrast	KEYWORD2
+update	KEYWORD2
+autoUpdate	KEYWORD2
+invText	KEYWORD2
+setFont	KEYWORD2
+setScale	KEYWORD2
+setCoding	KEYWORD2
+getFontWidth	KEYWORD2
+getFontHeight	KEYWORD2
+setPageCoord	KEYWORD2
+setCursor	KEYWORD2
+setCursorShift	KEYWORD2
+drawPixel	KEYWORD2
+getPixel	KEYWORD2
+drawHLine	KEYWORD2
+drawVLine	KEYWORD2
+drawLine	KEYWORD2
+drawRect	KEYWORD2
+fillRect	KEYWORD2
+drawCircle	KEYWORD2
+drawBitmap	KEYWORD2
+printScroll	KEYWORD2
+printTicker	KEYWORD2
+resetTicker	KEYWORD2
+print	KEYWORD2
+printPadZero	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OLED_NO_BUFFER	LITERAL1
+OLED_BUFFER	LITERAL1
+OLED_1306	LITERAL1
+OLED_1309	LITERAL1
+OLED_T	LITERAL1
+OLED_B	LITERAL1
+OLED_L	LITERAL1
+OLED_C	LITERAL1
+OLED_R	LITERAL1
+OLED_N	LITERAL1
+TXT_CP866	LITERAL1
+TXT_UTF8	LITERAL1
+TXT_WIN1251	LITERAL1
+SmallFontRus	LITERAL1
+MediumFontRus	LITERAL1
+BigFontRus	LITERAL1
+MegaFontRus	LITERAL1
